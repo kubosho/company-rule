@@ -13,7 +13,6 @@
 
 - [デンキヤギ株式会社 就業規則](https://github.com/DenkiYagi/EmployeeHandbook)
 - [株式会社トランスリミット 社内規程](https://github.com/Translimit/company-regulation)
-- [時雨堂コトハジメ](https://gist.github.com/voluntas/8183054)
 
 このリポジトリの内容は、明示されている場合を除いて、次のライセンスに従います。
 
